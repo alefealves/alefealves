@@ -14,7 +14,6 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          node-version: '20'
           github_user_name: alefealves
           svg_out_path: dist/github-contribution-grid-snake.svg
 
