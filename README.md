@@ -1,16 +1,29 @@
-### Hi there 👋
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6E96&center=true&random=false&width=500&lines=Olá,+meu+nome+é+Álefe+Alves.;Seja+bem-vindo+ao+meu+repositório!+%E2%AD%90%EF%B8%8F)](https://git.io/typing-svg)
+  
+  Desenvolvedor FullStack | Delphi | Java | Spring | C# | Node | TypeScript | Angular | React Js 👨🏻‍💻
 
-<!--
-**alefealves/alefealves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=cs,java,spring,php,js,ts,angular,react,nodejs,express,nestjs,prisma,mongodb,mysql,docker,git,github,vscode&perline=9)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://github.com/alefealves">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefealves&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=alefealves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+###
+
+![Snake animation](https://github.com/alefealves/alefealves/blob/output/github-contribution-grid-snake.svg)
+
+###
+
+  <div align="center">
+    <a href="https://www.instagram.com/alefe.alves/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/alefe-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+    <a href = "mailto:alefepereira.alves@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div>
+  
+</div>
