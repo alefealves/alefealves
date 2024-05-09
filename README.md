@@ -10,7 +10,7 @@
 
 <div>
 <a href="https://github.com/alefealves">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefealves&layout=compact&langs_count=10&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefealves&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ###
