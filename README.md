@@ -13,7 +13,7 @@
 <div style="display: flex;">
   <img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=alefealves&theme=discord_old_blurple"/>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefealves&layout=compact&theme=discord_old_blurple" />
-</div>
+</div></br>
 
 ###
   <div align="center">
