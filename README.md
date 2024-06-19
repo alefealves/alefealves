@@ -10,10 +10,11 @@
 
 ## Statistics: ⚡
 
-<div style="display: flex;">
-  <img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=alefealves&theme=discord_old_blurple"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefealves&layout=compact&theme=discord_old_blurple" />
-</div></br>
+<div>
+<a href="https://github.com/alefealves">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefealves&layout=compact&langs_count=6&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefealves&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ###
   <div align="center">
