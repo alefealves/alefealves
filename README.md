@@ -8,9 +8,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cs,java,spring,php,js,ts,angular,react,nodejs,express,nestjs,prisma,mongodb,mysql,docker,git,github,vscode&perline=9)](https://skillicons.dev)
 
-<div>
-<a href="https://github.com/alefealves">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefealves&layout=compact&langs_count=7&theme=dracula"/>
+## Statistics: ⚡
+
+<div style="display: flex;">
+  <img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=alefealves&theme=discord_old_blurple"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefealves&layout=compact&theme=discord_old_blurple" />
 </div>
 
 ###
