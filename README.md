@@ -13,7 +13,7 @@
 <div>
 <a href="https://github.com/alefealves">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=alefealves&layout=compact&langs_count=6&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefealves&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefealves&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
 ###
